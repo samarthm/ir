@@ -1,0 +1,61 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "audience": {
+    "@type": "EducationalAudience"
+  },
+  "description": "Professionally created Indian music videos",
+  "image": "http://indianraga.com/wp-content/uploads/2015/08/VladW_IndianRaga-4157.jpg",
+  "name": "Raga Labs",
+  "brand": "IndianRaga",
+  "url": "http://www.indianraga.com/labs"
+
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "audience": {
+    "@type": "EducationalAudience"
+  },
+  "description": "Partner with Indian Raga to perfrom infront of thousands",
+  "image": "http://indianraga.com/wp-content/uploads/2015/11/Fellowship_dance.jpg",
+  "name": "Fellowships",
+  "brand": "IndianRaga",
+  "url": "http://indianraga.com/fellowship/"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "audience": {
+    "@type": "EducationalAudience"
+  },
+  "description": "Compete against other to win amazing monthly prizes.",
+  "image": "http://indianraga.com/wp-content/uploads/2015/10/unnamed-3.png",
+  "name": "Competitions",
+  "brand": "IndianRaga",
+  "url": "http://indianraga.com/competitions/"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "audience": {
+    "@type": "EducationalAudience"
+  },
+  "description": "Learn from Indian Raga's pre-recorded library",
+  "image": "http://indianraga.com/wp-content/uploads/2015/10/unnamed-3.png",
+  "name": "Indian Raga Music Lessons",
+  "brand": "IndianRaga",
+  "url": "http://indianraga.com/music-lessons/"
+}
+</script>
+
